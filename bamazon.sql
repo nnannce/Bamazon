@@ -1,9 +1,8 @@
 CREATE DATABASE bamazon;
 
--- all of the code will affect "bamazon" --
 USE bamazon;
 
--- Creates the table "products" within bamazon --
+-- TABLE --
 CREATE TABLE products (
   ItemID INTEGER(11) AUTO_INCREMENT NOT NULL,
   ProductName  VARCHAR(50) NOT NULL,
