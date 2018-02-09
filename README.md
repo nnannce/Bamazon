@@ -4,6 +4,6 @@ This app takes in orders from customers and depletes stock from the store's inve
 
 Getting Started
 
-![Getting Started](https://raw.github.com/nnannce/Bamazon/screenshots-for-ReadMe/Screen-Shot-2018-02-08-at-4.41.08-PM.png)
+![Getting Started](https://raw.github.com/nnannce/Bamazon/screenshots_for_ReadMe/Screen_Shot_2018-02-08-at_4.41.08_PM.png)
 
 
