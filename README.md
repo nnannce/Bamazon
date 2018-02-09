@@ -7,3 +7,4 @@ Getting Started
 ![Getting Started](https://raw.github.com/nnannce/Bamazon/screenshots/gettingstarted.png)
 
 
+
