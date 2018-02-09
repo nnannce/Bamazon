@@ -1,10 +1,10 @@
 # Bamazon
 
-This app takes in orders from customers and depletes stock from the store's inventory.It also allows the user to program the app to track product sales across the store's departments.
+This app takes in orders from customers and depletes stock from the store's inventory.
 
 Getting Started
 
-![Getting Started](https://raw.github.com/nnannce/Bamazon/screenshots/gettingstarted.png)
+(https://raw.github.com/nnannce/Bamazon/screenshots/gettingstarted.png)
 
 
 
