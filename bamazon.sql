@@ -5,11 +5,11 @@ USE bamazon;
 
 -- Creates the table "products" within bamazon --
 CREATE TABLE products (
-	ItemID INTEGER(11) AUTO_INCREMENT NOT NULL,
+  ItemID INTEGER(11) AUTO_INCREMENT NOT NULL,
   ProductName  VARCHAR(50) NOT NULL,
   DepartmentName VARCHAR(50) NOT NULL,
   Price DECIMAL(10,2),
-	StockQuantity INTEGER(10),
+  StockQuantity INTEGER(10),
   PRIMARY KEY (ItemID)
 );
 

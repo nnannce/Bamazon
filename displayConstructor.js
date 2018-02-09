@@ -1,4 +1,4 @@
-// Displays Inventory Table for Manager, Results from a SELECT query are passed in as parameter and used 
+
 Table = require('cli-table2');
 var displayTable = function() {
 
