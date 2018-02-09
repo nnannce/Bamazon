@@ -5,7 +5,9 @@ This app takes in orders from customers and depletes stock from the store's inve
 Getting Started
 
 ![gettingstarted](https://user-images.githubusercontent.com/30881941/36007366-beff44c2-0d07-11e8-8db1-9c5c81e0905a.png)
+
 You will also need to run npm install to get the right packages from the package.json
+
 -The app then prompts users with two messages:
 The first, the ID of the product they would like to buy.
 The second, how many units of the product they would like to buy.
